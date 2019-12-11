@@ -1,0 +1,7 @@
+batch_size: 32
+data_dir: './data/'
+save_dir: './save/' # save/set_id/
+set_id: 1
+bert_hidden_size: 768
+gru_dropout: 0.01
+linear_dropout: 0.01
